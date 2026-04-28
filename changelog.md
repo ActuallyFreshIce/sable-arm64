@@ -1,3 +1,2 @@
- - Allow for the entire UDP pipeline to be disabled
- - Adjust compatibility with Create's Mechanical Harvester
- - Tweak assembly handling
+ - Fix issues with glibc support on Linux Sable Rapier natives
+ - Fix Create Blueprints not working on sub-levels
